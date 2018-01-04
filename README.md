@@ -18,9 +18,9 @@ Project Lead: [Julia Vallera](https://twitter.com/colorwheelz/)
 
 In [this Repository](https://github.com/jvallera/DCU/) you can find, share, comment and remix content.</sub> These are the themes we're working on. Feel free to add an issue or comment.</sub>
 
-* [Events](https://www.eventbrite.com/o/event-organized-by-julia-vallera-4477972915)Images. Join our next event or connect with us to contribute to future events. 
-* [Documentation](https://medium.com/tag/digital-civic-underground). We want to document and share frequently. Our events are recorded via video and summarized in blog posts. 
-* [Connecting]() We want to connect with likeminded individuals. If you or someone you know would like to connect please let us know. 
+* [Events](https://www.eventbrite.com/o/event-organized-by-julia-vallera-4477972915): Join our next event or connect with us to contribute to future events. 
+* [Documentation](https://medium.com/tag/digital-civic-underground): We want to document and share frequently. Our events are recorded via video and summarized in blog posts. 
+* [Connecting](): We want to connect with likeminded individuals. If you or someone you know would like to connect please let us know. 
 
 ---
 ## Thank you
