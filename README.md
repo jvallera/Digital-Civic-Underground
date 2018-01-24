@@ -4,7 +4,7 @@ A local coalition working to bridge the digital divide in Northern Vermont, USA.
 #### About Digital Civic Underground
 
 Digital Civic Underground draws attention to the digital divide that impacts many diverse communities in and around Burlington, Vermont. 
-We aim to identify ways to increase digital inclusion locally and leverage the uniqueness (large New American population, Universities, many existing services, growing retirement community) of the area. 
+We aim to identify ways to increase digital inclusion locally and leverage the uniqueness of the area. 
 
 ---
 
@@ -21,6 +21,7 @@ In [this Repository](https://github.com/jvallera/DCU/) you can find, share, comm
 * [Events](https://www.eventbrite.com/o/event-organized-by-julia-vallera-4477972915): Join our next event or connect with us to contribute to future events. 
 * [Documentation](https://medium.com/tag/digital-civic-underground): We want to document and share frequently. Our events are recorded via video and summarized in blog posts. 
 * [Connecting](): We want to connect with likeminded individuals. If you or someone you know would like to connect please let us know. 
+* [Contribute](): We welcome contributions in the form of research, stories, questions, suggestiosn and more. If you have something you would like to add please leave a comment, add content directly or reach out to us. 
 
 ---
 ## Thank you
